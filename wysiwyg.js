@@ -53,23 +53,3 @@ function cardArray() {
   }
 }
 cardArray();
-
-
-
-
-
-
-
-
-
-
-
-/*function pplDiv() {
-  let personDiv = document.createElement("div");
-  let header = document.createElement("header");
-  let section = document.createElement("section");
-  let footer = document.createElement("footer");
-
-
-}
-*/
